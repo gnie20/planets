@@ -1,4 +1,4 @@
 # Ignore all data files and results
 *.dat
 results
-
+!a.dat
